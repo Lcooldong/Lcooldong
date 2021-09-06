@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLcooldong&count_bg=%2320E3BB&title_bg=%23393034&icon=letterboxd.svg&icon_color=%2320E3BB&title=Touch&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## About me
+## 🤔About me
 - How to enjoy my life!
 - Blog : https://lcooldong.github.io/
 - E-mail : scooldong@gmail.com
