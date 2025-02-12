@@ -4,7 +4,7 @@
 
 ## 🤔 About me
 - How to enjoy my life!
-- Blog : https://lcooldong.github.io/
+- Blog : https://lcooldong.github.io/ - broken
 - E-mail : scooldong@gmail.com
 
 
